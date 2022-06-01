@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "942727541877",
+    "project_id": "verification-digibank",
+    "storage_bucket": "verification-digibank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942727541877:android:6407dd7b0405eb484ab43c",
+        "android_client_info": {
+          "package_name": "com.example.bankdg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942727541877-vg0pllnan5c9rr7vq74ma9u94vvjce6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bankdg",
+            "certificate_hash": "49b31f7d2028851b7f9e11987ac958fbd0418c76"
+          }
+        },
+        {
+          "client_id": "942727541877-kch2d21p3ttc34oe5ru7ds55ncrkb7g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_z7YF3U2WzwTKjKzWFbuoA5GtBr8_YJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942727541877-kch2d21p3ttc34oe5ru7ds55ncrkb7g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942727541877:android:67503755f055f5324ab43c",
+        "android_client_info": {
+          "package_name": "com.example.bankdigi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942727541877-kch2d21p3ttc34oe5ru7ds55ncrkb7g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_z7YF3U2WzwTKjKzWFbuoA5GtBr8_YJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942727541877-kch2d21p3ttc34oe5ru7ds55ncrkb7g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
